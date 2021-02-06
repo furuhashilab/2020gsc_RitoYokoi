@@ -55,7 +55,7 @@ google expeditions tour creatorの元でpolyを使用する。作成するscene�
 https://docs.google.com/presentation/d/1iuhkB2qrNdTTpbzatPC-bLd7eoRF4CYvkVL3MoionqI/edit#slide=id.p  
 ## 参考文献  
 
-https://docs.google.com/spreadsheets/d/13bHDDMThWOcwbgqP8UC4PZTZNjh3WzBEXfLeLCUvvxY/edit#gid=0
+https://docs.google.com/spreadsheets/d/1fAwZnqauyVFPrWN26sgE3eWv9keIt7c7qVakm2BvvEw/edit#gid=0
 
 ## 進歩管理用プロジェクト  
 
