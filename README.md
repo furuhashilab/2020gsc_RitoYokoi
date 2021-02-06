@@ -3,6 +3,7 @@
 青山学院大学地球社会共生学部　地球社会共生学科
 学籍番号：1A118175  氏名:横井理途/rito yokoi  
 指導教員:古橋大地教授  
+© FuruhashiLabratory/Rito Yokoi, CC BY 4.0
 # **[2020ゼミ論] google expeditonsを用いた相模原キャンパスツアーの作成**
 
 ## 概要  
@@ -23,7 +24,14 @@ google expeditions tour creatorの元でpolyを使用する。作成するscene�
 調査内容は、空間に自分が存在すること認識できたか、視野角の満足度、建物の説明の3点と全体感想だ。3点は、とても良い、良い、普通、悪い、かなり悪い、わからないとする。  
 
 ## results   
+### **[poly](https://poly.google.com/view/5o7vsa-NdeG)** 
+### **expeditions**  
+<img src="https://user-images.githubusercontent.com/50941295/107104406-d84ee700-6864-11eb-8d70-d7937c1541bd.jpeg" width = "220px" height = "220px">  
+
 ![スクリーンショット 2021-02-06 10 06 56](https://user-images.githubusercontent.com/50941295/107104017-4b575e00-6863-11eb-8a41-5241fb6f6bbd.png)  
+![スクリーンショット 2021-02-06 10 07 11](https://user-images.githubusercontent.com/50941295/107104171-d46e9500-6863-11eb-98fe-e75718012610.png)  
+##アンケート結果##  
+![スクリーンショット 2021-02-06 9 59 50](https://user-images.githubusercontent.com/50941295/107104580-9a9e8e00-6865-11eb-9f45-77a0b0111ba0.png)  
 感想としては、多くの意見を頂いた。目立った意見としては、sceneが少ない（E棟やD棟の説明を入れるべき）また、青学を宣伝するための説明を入れるべき。（駅伝など）そして、特に一年生にもっと内部の写真を入れて欲しいと要望があった。しかし、意識した空間認識は概ね好評であった。  
 
 ## discussion  
@@ -42,3 +50,16 @@ google expeditions tour creatorの元でpolyを使用する。作成するscene�
 今回、ツアー作成を通して閲覧者にどのような視点で見てもらうか、対象者は誰なのかを考えることができた。今後の展望としては、多くの人に作成したツアーを閲覧してもらうこと。また、より満足度の高いツアーを作成することだ。    
 しかしながら、google expeditionsは2021年6月31日で、サービス終了してしまうため異なるサービスを利用することか新規の方向性で、コロナ禍における新入生のためのアプローチを行う。
 
+## 謝辞  
+本研究を進めるにあたり地球社会共生学部の古橋大地教授をはじめ多くの方々より多大な助言を賜りました。厚く感謝を申し上げます。
+
+## プレゼン資料  
+
+https://docs.google.com/presentation/d/1iuhkB2qrNdTTpbzatPC-bLd7eoRF4CYvkVL3MoionqI/edit#slide=id.p  
+## 参考文献  
+
+https://docs.google.com/spreadsheets/d/13bHDDMThWOcwbgqP8UC4PZTZNjh3WzBEXfLeLCUvvxY/edit#gid=0
+
+## 進歩管理用プロジェクト  
+
+https://github.com/furuhashilab/sotsuron2020/projects/11
