@@ -24,7 +24,6 @@ google expeditions tour creatorの元でpolyを使用する。作成するscene�
 
 ## results   
 ![スクリーンショット 2021-02-06 10 06 56](https://user-images.githubusercontent.com/50941295/107104017-4b575e00-6863-11eb-8a41-5241fb6f6bbd.png)  
-
 感想としては、多くの意見を頂いた。目立った意見としては、sceneが少ない（E棟やD棟の説明を入れるべき）また、青学を宣伝するための説明を入れるべき。（駅伝など）そして、特に一年生にもっと内部の写真を入れて欲しいと要望があった。しかし、意識した空間認識は概ね好評であった。  
 
 ## discussion  
